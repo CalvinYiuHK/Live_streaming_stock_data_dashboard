@@ -1,6 +1,8 @@
 # Live Streaming Stock data dashboard
 This project is to build a client server application which can stream data from a server to a data grid on a website.
 
+![display](./display.png)
+
 # Getting Started
 The project is separated into two parts, client side and server side, the configuration are different as shown in the 
 following.  
